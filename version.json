@@ -1,14 +1,14 @@
 {
-    "rhino":  {
-                  "min":  "2.8.8",
-                  "latest":  "2.8.8",
-                  "date":  "2026-11-18",
-                  "msg":  "AI 엔진 Claude | Gemini | ChatGPT 를 라이노에서도 선택 · Gemini·ChatGPT 설치·로그인을 창 없이(설치 → 로그인 → Magnific 3단계) · Magnific 연결은 브라우저에서 허용만 · 이미지 생성 해상도 세로 목록 · 계정 창·로그인 화면 다듬기"
-              },
     "release":  {
                     "min":  "2.9.3",
                     "latest":  "2.9.3",
                     "date":  "2026-11-18",
                     "msg":  "v2.9.3: 이미지 렌더가 빨라졌습니다(AI 는 프롬프트만, 생성·내려받기는 플러그인이 바로). Gemini 기본 모델 Gemini 4 Hydrogen."
-                }
+                },
+    "rhino":  {
+                  "min":  "2.9.3",
+                  "latest":  "2.9.3",
+                  "date":  "2026-11-18",
+                  "msg":  "v2.9.3: 이미지 렌더가 빨라졌습니다(AI 는 프롬프트만, 생성·내려받기는 플러그인이 바로). Gemini 기본 모델 Gemini 4 Hydrogen."
+              }
 }
