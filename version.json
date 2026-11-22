@@ -12,15 +12,15 @@
                   "msg":  "LiveSync Vworld 가 Windows 단독 실행판(프로그램 + 스케치업·라이노 연결 플러그인)으로 바뀌어 이 라이노판은 더 쓸 수 없습니다. 개발자에게 단독판 설치 파일을 요청해 설치하세요(라이노 7·8 에 연결 플러그인 VWorldLink 가 함께 들어갑니다). 설치한 뒤에는 이 라이노판을 지워도 됩니다."
               },
     "standalone":  {
-                       "min":  "4.0.0",
-                       "latest":  "4.0.0",
-                       "date":  "2026-11-22",
-                       "msg":  "v4.0.0: 라이노 연결(라이노 7·8), 지도에서 모델 옮기기·돌리기(검볼), 스케치업과 같은 카메라 단축키·2점 투시, 창 하단 버전 표시.",
+                       "min":  "4.1.0",
+                       "latest":  "4.1.0",
+                       "date":  "2026-11-23",
+                       "msg":  "v4.1.0: 새 창 디자인(제목 표시줄 없는 창 · 위쪽 한 줄 도구 · 하단 한 줄 · 유리 사이드바 · 부드러운 테마 전환), 프로그램 이름 정리(LiveSync Vworld).",
                        "pkg":  {
-                                   "url":  "https://github.com/kimzero926/LiveSync-Vworld-for-SU_Public/releases/download/standalone-v4.0.0/lsv-4.0.0.bin",
-                                   "size":  71366176,
-                                   "sha256":  "373e9a2765873793f8afeb5be35358326b786036082620814ee2ef34b38d9126",
-                                   "sig":  "QKT7GeHqxkgXrjN9Vjuwz0vlRWAFRK+ay40X2l7pdhb7500TFtsS58bie9FDJlfF9fu5mJgTi4AjCa6of0v2bA=="
+                                   "url":  "https://github.com/kimzero926/LiveSync-Vworld-for-SU_Public/releases/download/standalone-v4.1.0/lsv-4.1.0.bin",
+                                   "size":  71390752,
+                                   "sha256":  "031f3c9b217341a9b1ef37da7b678c86f2f5a4e886b51029bcd12c15f7af4982",
+                                   "sig":  "/FLAHMT8AegMoLl3eUGj9wWn9CEayH/OzTJJFsjBTg73Z28+PyVjmk0hmzklSfaPeNiIxmfJNfXM2bPetIBOAg=="
                                }
                    }
 }
