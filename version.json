@@ -10,5 +10,17 @@
                   "latest":  "2.9.4",
                   "date":  "2026-11-19",
                   "msg":  "v2.9.4: 계정 창 정리(세 엔진 같은 크기·탭 전환 애니메이션·설명은 ? 팝업)."
-              }
+              },
+    "standalone":  {
+                       "min":  "3.0.6",
+                       "latest":  "3.0.6",
+                       "date":  "2026-11-22",
+                       "msg":  "v3.0.6: 단독 실행판 첫 공식 배포 — 이제부터 새 버전은 프로그램 안에서 바로 받습니다(지금 업데이트).",
+                       "pkg":  {
+                                   "url":  "https://github.com/kimzero926/LiveSync-Vworld-for-SU_Public/releases/download/standalone-v3.0.6/lsv-3.0.6.bin",
+                                   "size":  71176224,
+                                   "sha256":  "6268542dbe8d1d7267bc5eec4cb553e63e7063461b61aa16428f1cf31ffe2aee",
+                                   "sig":  "hXKEZ05XjMGpZ3Qn4dmiZpUI5Kip+Mrvhib0ns8rXkqNOteGDBTUeTZqc5mHAF/yZiEZ9hU8dcll1UhXrfTaXw=="
+                               }
+                   }
 }
