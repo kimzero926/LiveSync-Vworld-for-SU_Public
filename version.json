@@ -12,15 +12,15 @@
                   "msg":  "LiveSync Vworld 가 Windows 단독 실행판(프로그램 + 스케치업·라이노 연결 플러그인)으로 바뀌어 이 라이노판은 더 쓸 수 없습니다. 개발자에게 단독판 설치 파일을 요청해 설치하세요(라이노 7·8 에 연결 플러그인 VWorldLink 가 함께 들어갑니다). 설치한 뒤에는 이 라이노판을 지워도 됩니다."
               },
     "standalone":  {
-                       "min":  "4.2.2",
-                       "latest":  "4.2.2",
-                       "date":  "2026-11-24",
-                       "msg":  "라이노 뷰 연동 어긋남 고침 · 사이드바 정리 · 지도를 끌 때 글자가 선택되던 것과 첫 실행 화면에서 창을 못 옮기던 것을 고쳤습니다.",
+                       "min":  "4.2.3",
+                       "latest":  "4.2.3",
+                       "date":  "2026-11-27",
+                       "msg":  "그림·화면이 가끔 멈추던 것 고침 · 화면 버벅임 줄임",
                        "pkg":  {
-                                   "url":  "https://github.com/kimzero926/LiveSync-Vworld-for-SU_Public/releases/download/standalone-v4.2.2/lsv-4.2.2.bin",
-                                   "size":  71407648,
-                                   "sha256":  "f365866eca44fb184ea5a3ef6c2be804ba58a8dbacddc25d7d95ef1c8c98f6c3",
-                                   "sig":  "Db+jxW048CfMtcUcJgL4EvnIbewFQB7bVBIozJkRW+ZHsVrp8EbYW2uqyD3QQHcmo+Kl5Zo54WdcO0YJEccv8w=="
+                                   "url":  "https://github.com/kimzero926/LiveSync-Vworld-for-SU_Public/releases/download/standalone-v4.2.3/lsv-4.2.3.bin",
+                                   "size":  71453728,
+                                   "sha256":  "270516d4dfd2cabae2b201c2137ef5051f537f3c7e0906f90868e53ccf1d3182",
+                                   "sig":  "2hu7bGScu+XqMJWudXT+TFWNcKDF+NoHAYrtIS5dBS6/2fe+1IC+OdE3IqhW13LwsJqUBVSXjSbl0DOOGIc+Aw=="
                                }
                    }
 }
